@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554656483462.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "44BAA4A9",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1554656483462,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3A622A76",
+        "caption" : "df_tratado",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=df_tratado&cache_key=3A622A76",
+        "displayedObservations" : 263,
+        "environment" : "",
+        "expression" : "df_tratado",
+        "object" : "df_tratado",
+        "preview" : 0,
+        "totalObservations" : 263,
+        "variables" : 20
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

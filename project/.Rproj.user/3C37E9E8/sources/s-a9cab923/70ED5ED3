@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554657865746.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "70ED5ED3",
+    "lastKnownWriteTime" : 3180141808686473843,
+    "last_content_update" : 1554657865746,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "21C3C7A9",
+        "caption" : "df_analise_correlacao",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=df_analise_correlacao&cache_key=21C3C7A9",
+        "displayedObservations" : "263",
+        "environment" : "",
+        "expression" : "df_analise_correlacao",
+        "object" : "df_analise_correlacao",
+        "preview" : "0",
+        "totalObservations" : "263",
+        "variables" : "20"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

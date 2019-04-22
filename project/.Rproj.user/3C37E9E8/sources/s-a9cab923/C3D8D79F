@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554655706851.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C3D8D79F",
+    "lastKnownWriteTime" : 8319104482074261097,
+    "last_content_update" : 1554655706851,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BEDF1C51",
+        "caption" : "df$Salary",
+        "contentUrl" : "grid_resource/gridviewer.html?env=_rs_no_env&obj=&cache_key=BEDF1C51",
+        "displayedObservations" : "322",
+        "environment" : "_rs_no_env",
+        "expression" : "df$Salary",
+        "object" : "",
+        "preview" : "0",
+        "totalObservations" : "322",
+        "variables" : "1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

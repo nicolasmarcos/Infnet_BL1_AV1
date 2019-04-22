@@ -1,0 +1,189 @@
+"","HDI.Rank","Country","Ano_2013","Ano_2014","Classificacao","indices_crescimento"
+"1",171," Afghanistan",0.464,0.465,"Baixo",0.001
+"2",85," Albania",0.732,0.733,"Alto",0.001
+"3",83," Algeria",0.734,0.736,"Alto",0.002
+"4",34," Andorra",0.844,0.845,"Muito Alto",0.001
+"5",149," Angola",0.53,0.532,"Baixo",0.002
+"6",58," Antigua and Barbuda",0.781,0.783,"Alto",0.002
+"7",40," Argentina",0.833,0.836,"Muito Alto",0.003
+"8",85," Armenia",0.731,0.733,"Alto",0.002
+"9",2," Australia",0.933,0.935,"Muito Alto",0.002
+"10",23," Austria",0.884,0.885,"Muito Alto",0.001
+"11",78," Azerbaijan",0.749,0.751,"Alto",0.002
+"12",55," Bahamas",0.786,0.79,"Alto",0.004
+"13",45," Bahrain",0.821,0.824,"Muito Alto",0.003
+"14",142," Bangladesh",0.567,0.57,"Médio",0.003
+"15",57," Barbados",0.785,0.785,"Alto",0
+"16",50," Belarus",0.796,0.798,"Muito Alto",0.002
+"17",21," Belgium",0.888,0.89,"Muito Alto",0.002
+"18",101," Belize",0.715,0.715,"Alto",0
+"19",166," Benin",0.477,0.48,"Baixo",0.003
+"20",132," Bhutan",0.595,0.605,"Médio",0.01
+"21",119," Bolivia (Plurinational State of)",0.658,0.662,"Médio",0.004
+"22",85," Bosnia and Herzegovina",0.729,0.733,"Alto",0.004
+"23",106," Botswana",0.696,0.698,"Médio",0.002
+"24",75," Brazil",0.752,0.755,"Alto",0.003
+"25",31," Brunei Darussalam",0.852,0.856,"Muito Alto",0.004
+"26",59," Bulgaria",0.779,0.782,"Alto",0.003
+"27",183," Burkina Faso",0.396,0.402,"Baixo",0.00600000000000001
+"28",184," Burundi",0.397,0.4,"Baixo",0.003
+"29",122," Cabo Verde",0.643,0.646,"Médio",0.003
+"30",143," Cambodia",0.55,0.555,"Médio",0.005
+"31",153," Cameroon",0.507,0.512,"Baixo",0.005
+"32",9," Canada",0.912,0.913,"Muito Alto",0.001
+"33",187," Central African Republic",0.348,0.35,"Baixo",0.002
+"34",185," Chad",0.388,0.392,"Baixo",0.004
+"35",42," Chile",0.83,0.832,"Muito Alto",0.002
+"36",90," China",0.723,0.728,"Alto",0.005
+"37",97," Colombia",0.718,0.72,"Alto",0.002
+"38",159," Comoros",0.501,0.503,"Baixo",0.002
+"39",136," Congo",0.582,0.591,"Médio",0.00900000000000001
+"40",176," Congo (Democratic Republic of the)",0.43,0.433,"Baixo",0.003
+"41",69," Costa Rica",0.764,0.766,"Alto",0.002
+"42",47," Croatia",0.817,0.818,"Muito Alto",0.001
+"43",67," Cuba",0.768,0.769,"Alto",0.001
+"44",32," Cyprus",0.85,0.85,"Muito Alto",0
+"45",28," Czech Republic",0.868,0.87,"Muito Alto",0.002
+"46",172," C�te d'Ivoire",0.458,0.462,"Baixo",0.004
+"47",4," Denmark",0.923,0.923,"Muito Alto",0
+"48",168," Djibouti",0.468,0.47,"Baixo",0.00199999999999995
+"49",94," Dominica",0.723,0.724,"Alto",0.001
+"50",101," Dominican Republic",0.711,0.715,"Alto",0.004
+"51",88," Ecuador",0.73,0.732,"Alto",0.002
+"52",108," Egypt",0.689,0.69,"Médio",0.001
+"53",116," El Salvador",0.664,0.666,"Médio",0.002
+"54",138," Equatorial Guinea",0.584,0.587,"Médio",0.003
+"55",186," Eritrea",0.39,0.391,"Baixo",0.001
+"56",30," Estonia",0.859,0.861,"Muito Alto",0.002
+"57",174," Ethiopia",0.436,0.442,"Baixo",0.00600000000000001
+"58",90," Fiji",0.724,0.727,"Alto",0.003
+"59",24," Finland",0.882,0.883,"Muito Alto",0.001
+"60",22," France",0.887,0.888,"Muito Alto",0.001
+"61",110," Gabon",0.679,0.684,"Médio",0.005
+"62",175," Gambia",0.442,0.441,"Baixo",-0.001
+"63",76," Georgia",0.75,0.754,"Alto",0.004
+"64",6," Germany",0.915,0.916,"Muito Alto",0.001
+"65",140," Ghana",0.577,0.579,"Médio",0.002
+"66",29," Greece",0.863,0.865,"Muito Alto",0.002
+"67",79," Grenada",0.742,0.75,"Alto",0.00800000000000001
+"68",128," Guatemala",0.626,0.627,"Médio",0.001
+"69",182," Guinea",0.411,0.411,"Baixo",0
+"70",178," Guinea-Bissau",0.418,0.42,"Baixo",0.002
+"71",124," Guyana",0.634,0.636,"Médio",0.002
+"72",163," Haiti",0.481,0.483,"Baixo",0.002
+"73",131," Honduras",0.604,0.606,"Médio",0.002
+"74",12," Hong Kong, China (SAR)",0.908,0.91,"Muito Alto",0.002
+"75",44," Hungary",0.825,0.828,"Muito Alto",0.003
+"76",16," Iceland",0.899,0.899,"Muito Alto",0
+"77",130," India",0.604,0.609,"Médio",0.005
+"78",110," Indonesia",0.681,0.684,"Médio",0.003
+"79",69," Iran (Islamic Republic of)",0.764,0.766,"Alto",0.002
+"80",121," Iraq",0.657,0.654,"Médio",-0.003
+"81",6," Ireland",0.912,0.916,"Muito Alto",0.004
+"82",18," Israel",0.893,0.894,"Muito Alto",0.001
+"83",27," Italy",0.873,0.873,"Muito Alto",0
+"84",99," Jamaica",0.717,0.719,"Alto",0.002
+"85",20," Japan",0.89,0.891,"Muito Alto",0.001
+"86",80," Jordan",0.748,0.748,"Alto",0
+"87",56," Kazakhstan",0.785,0.788,"Alto",0.003
+"88",145," Kenya",0.544,0.548,"Médio",0.004
+"89",137," Kiribati",0.589,0.59,"Médio",0.001
+"90",17," Korea (Republic of)",0.895,0.898,"Muito Alto",0.003
+"91",48," Kuwait",0.816,0.816,"Muito Alto",0
+"92",120," Kyrgyzstan",0.652,0.655,"Médio",0.003
+"93",141," Lao People's Democratic Republic",0.57,0.575,"Médio",0.005
+"94",46," Latvia",0.816,0.819,"Muito Alto",0.003
+"95",67," Lebanon",0.768,0.769,"Alto",0.001
+"96",161," Lesotho",0.494,0.497,"Baixo",0.003
+"97",177," Liberia",0.424,0.43,"Baixo",0.00600000000000001
+"98",94," Libya",0.738,0.724,"Alto",-0.014
+"99",13," Liechtenstein",0.907,0.908,"Muito Alto",0.001
+"100",37," Lithuania",0.837,0.839,"Muito Alto",0.002
+"101",19," Luxembourg",0.89,0.892,"Muito Alto",0.002
+"102",154," Madagascar",0.508,0.51,"Baixo",0.002
+"103",173," Malawi",0.439,0.445,"Baixo",0.00600000000000001
+"104",62," Malaysia",0.777,0.779,"Alto",0.002
+"105",104," Maldives",0.703,0.706,"Médio",0.003
+"106",179," Mali",0.416,0.419,"Baixo",0.003
+"107",37," Malta",0.837,0.839,"Muito Alto",0.002
+"108",156," Mauritania",0.504,0.506,"Baixo",0.002
+"109",63," Mauritius",0.775,0.777,"Alto",0.002
+"110",74," Mexico",0.755,0.756,"Alto",0.001
+"111",123," Micronesia (Federated States of)",0.639,0.64,"Médio",0.001
+"112",107," Moldova (Republic of)",0.69,0.693,"Médio",0.003
+"113",90," Mongolia",0.722,0.727,"Alto",0.005
+"114",49," Montenegro",0.801,0.802,"Muito Alto",0.001
+"115",126," Morocco",0.626,0.628,"Médio",0.002
+"116",180," Mozambique",0.413,0.416,"Baixo",0.003
+"117",148," Myanmar",0.531,0.536,"Médio",0.005
+"118",126," Namibia",0.625,0.628,"Médio",0.003
+"119",145," Nepal",0.543,0.548,"Médio",0.005
+"120",5," Netherlands",0.92,0.922,"Muito Alto",0.002
+"121",9," New Zealand",0.911,0.914,"Muito Alto",0.003
+"122",125," Nicaragua",0.628,0.631,"Médio",0.003
+"123",188," Niger",0.345,0.348,"Baixo",0.003
+"124",152," Nigeria",0.511,0.514,"Baixo",0.003
+"125",1," Norway",0.942,0.944,"Muito Alto",0.002
+"126",52," Oman",0.792,0.793,"Alto",0.001
+"127",147," Pakistan",0.536,0.538,"Médio",0.002
+"128",60," Palau",0.775,0.78,"Alto",0.005
+"129",113," Palestine, State of",0.679,0.678,"Médio",-0.001
+"130",60," Panama",0.777,0.78,"Alto",0.003
+"131",158," Papua New Guinea",0.503,0.505,"Baixo",0.002
+"132",112," Paraguay",0.677,0.679,"Médio",0.002
+"133",84," Peru",0.732,0.734,"Alto",0.002
+"134",115," Philippines",0.664,0.668,"Médio",0.004
+"135",36," Poland",0.84,0.843,"Muito Alto",0.003
+"136",43," Portugal",0.828,0.83,"Muito Alto",0.002
+"137",32," Qatar",0.849,0.85,"Muito Alto",0.001
+"138",52," Romania",0.791,0.793,"Alto",0.002
+"139",50," Russian Federation",0.797,0.798,"Muito Alto",0.001
+"140",163," Rwanda",0.479,0.483,"Baixo",0.004
+"141",77," Saint Kitts and Nevis",0.747,0.752,"Alto",0.005
+"142",89," Saint Lucia",0.729,0.729,"Alto",0
+"143",97," Saint Vincent and the Grenadines",0.717,0.72,"Alto",0.003
+"144",105," Samoa",0.701,0.702,"Médio",0.001
+"145",143," Sao Tome and Principe",0.553,0.555,"Médio",0.002
+"146",39," Saudi Arabia",0.836,0.837,"Muito Alto",0.001
+"147",170," Senegal",0.463,0.466,"Baixo",0.003
+"148",66," Serbia",0.771,0.771,"Alto",0
+"149",64," Seychelles",0.767,0.772,"Alto",0.005
+"150",181," Sierra Leone",0.408,0.413,"Baixo",0.005
+"151",11," Singapore",0.909,0.912,"Muito Alto",0.003
+"152",35," Slovakia",0.84,0.844,"Muito Alto",0.004
+"153",25," Slovenia",0.878,0.88,"Muito Alto",0.002
+"154",156," Solomon Islands",0.505,0.506,"Baixo",0.001
+"155",116," South Africa",0.663,0.666,"Médio",0.003
+"156",169," South Sudan",0.461,0.467,"Baixo",0.00600000000000001
+"157",26," Spain",0.874,0.876,"Muito Alto",0.002
+"158",73," Sri Lanka",0.752,0.757,"Alto",0.005
+"159",167," Sudan",0.477,0.479,"Baixo",0.002
+"160",103," Suriname",0.713,0.714,"Alto",0.001
+"161",150," Swaziland",0.53,0.531,"Baixo",0.001
+"162",14," Sweden",0.905,0.907,"Muito Alto",0.002
+"163",3," Switzerland",0.928,0.93,"Muito Alto",0.002
+"164",134," Syrian Arab Republic",0.608,0.594,"Médio",-0.014
+"165",129," Tajikistan",0.621,0.624,"Médio",0.003
+"166",151," Tanzania (United Republic of)",0.516,0.521,"Baixo",0.005
+"167",93," Thailand",0.724,0.726,"Alto",0.002
+"168",81," The former Yugoslav Republic of Macedonia",0.744,0.747,"Alto",0.003
+"169",133," Timor-Leste",0.601,0.595,"Médio",-0.00600000000000001
+"170",162," Togo",0.473,0.484,"Baixo",0.011
+"171",100," Tonga",0.716,0.717,"Alto",0.001
+"172",64," Trinidad and Tobago",0.771,0.772,"Alto",0.001
+"173",96," Tunisia",0.72,0.721,"Alto",0.001
+"174",72," Turkey",0.759,0.761,"Alto",0.002
+"175",109," Turkmenistan",0.682,0.688,"Médio",0.00599999999999989
+"176",163," Uganda",0.478,0.483,"Baixo",0.005
+"177",81," Ukraine",0.746,0.747,"Alto",0.001
+"178",41," United Arab Emirates",0.833,0.835,"Muito Alto",0.002
+"179",14," United Kingdom",0.902,0.907,"Muito Alto",0.005
+"180",8," United States",0.913,0.915,"Muito Alto",0.002
+"181",52," Uruguay",0.79,0.793,"Alto",0.003
+"182",114," Uzbekistan",0.672,0.675,"Médio",0.003
+"183",134," Vanuatu",0.592,0.594,"Médio",0.002
+"184",71," Venezuela (Bolivarian Republic of)",0.764,0.762,"Alto",-0.002
+"185",116," Viet Nam",0.663,0.666,"Médio",0.003
+"186",160," Yemen",0.498,0.498,"Baixo",0
+"187",139," Zambia",0.58,0.586,"Médio",0.00600000000000001
+"188",155," Zimbabwe",0.501,0.509,"Baixo",0.00800000000000001
