@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553040563540.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C9E552E3",
+    "lastKnownWriteTime" : 8005218916923787554,
+    "last_content_update" : 1553040563540,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F72E08D5",
+        "caption" : "df_titanic",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=df_titanic&cache_key=F72E08D5",
+        "displayedObservations" : 891,
+        "environment" : "",
+        "object" : "df_titanic",
+        "preview" : 0,
+        "totalObservations" : 891,
+        "variables" : 12
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
